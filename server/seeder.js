@@ -23,7 +23,7 @@ const importData = async () => {
                 description: 'Full-stack video communication platform supporting secure group and one-on-one calls with real-time chat[cite: 32].',
                 techStack: ['MERN', 'WebRTC', 'Socket.IO', 'Zustand'],
                 imageUrl: 'https://via.placeholder.com/150',
-                githubLink: 'https://github.com/vankunavath0', // [cite: 6]
+                githubLink: 'https://github.com/vankunavath0',
                 featured: true,
             },
             {
@@ -31,7 +31,7 @@ const importData = async () => {
                 description: 'AI-powered resume generator leveraging the Gemini API for real-time, personalized content creation[cite: 37].',
                 techStack: ['Node.js', 'MongoDB', 'Gemini API', 'Tailwind CSS'],
                 imageUrl: 'https://via.placeholder.com/150',
-                githubLink: 'https://github.com/vankunavath0', // [cite: 6]
+                githubLink: 'https://github.com/vankunavath0', 
                 featured: true,
             },
             {
@@ -39,7 +39,7 @@ const importData = async () => {
                 description: 'Secure file storage system with encrypted uploads and token-based access control[cite: 42].',
                 techStack: ['Node.js', 'Express.js', 'MongoDB', 'Multer'],
                 imageUrl: 'https://via.placeholder.com/150',
-                githubLink: 'https://github.com/vankunavath0', // [cite: 6]
+                githubLink: 'https://github.com/vankunavath0', 
                 featured: false,
             },
         ];
